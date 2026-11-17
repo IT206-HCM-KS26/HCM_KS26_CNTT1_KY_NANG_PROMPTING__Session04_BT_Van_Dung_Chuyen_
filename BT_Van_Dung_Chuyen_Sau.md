@@ -14,11 +14,11 @@
 
 - "Bạn là một nhân viên kiểm duyệt của cửa hàng. Hãy đọc tin nhắn của khách hàng dưới đây và thực hiện kiểm tra thông tin theo đúng trình tự: 
    
-  1. Kiểm tra đủ 3 thông tin: Tên sản phẩm, số lượng, số điện thoại. Nếu thiếu bất kỳ thông tin nào thì dừng lại và chỉ xuất ra dòng chữ: "LỖI THIẾU THÔNG TIN".
+  -> Kiểm tra đủ 3 thông tin: Tên sản phẩm, số lượng, số điện thoại. Nếu thiếu bất kỳ thông tin nào thì dừng lại và chỉ xuất ra dòng chữ: "LỖI THIẾU THÔNG TIN".
 
-  2. Kiểm tra số lượng nếu số lượng bằng 0 thì dường lại và chỉ xuất ra dòng chữ: "LỖI DỮ LIỆU: số lượng đặt hàng không hợp lệ."
+  -> Kiểm tra số lượng nếu số lượng bằng 0 thì dường lại và chỉ xuất ra dòng chữ: "LỖI DỮ LIỆU: số lượng đặt hàng không hợp lệ."
 
-  3. Nếu dữ liệu hợp lệ hoàn toàn thì xuất ra bản tóm tắt gồm 4 dòng: Khách hàng, số điện thoại, sản phẩm, số lượng."
+  -> Nếu dữ liệu hợp lệ hoàn toàn thì xuất ra bản tóm tắt gồm 4 dòng: Khách hàng, số điện thoại, sản phẩm, số lượng."
 
   [TIN NHẮN KHÁCH HÀNG]
 
